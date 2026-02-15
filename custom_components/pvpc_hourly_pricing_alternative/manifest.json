@@ -1,7 +1,7 @@
 {
   "domain": "pvpc_hourly_pricing",
   "name": "Spain electricity hourly pricing (PVPC) alternative",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "codeowners": ["@vtb77"],
   "config_flow": true,
   "documentation": "https://github.com/vtb77/ha-pvpc-alternative",
